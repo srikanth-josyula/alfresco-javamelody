@@ -25,3 +25,5 @@ Compiling and Installing the plugin:
    follow the [same procedure](https://github.com/javamelody/javamelody/wiki/AlfrescoPlugin).
  - Open http://localhost:8080/alfresco/monitoring in a browser.
 
+ - JSON And XML - https://github.com/javamelody/javamelody/wiki/ExternalAPI#json
+
